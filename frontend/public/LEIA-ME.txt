@@ -1,0 +1,8 @@
+Copie para esta pasta as pastas de imagens do repositório atual (paginaOng):
+
+  logos/     -> public/logos/
+  imagens/   -> public/imagens/
+  animais/   -> public/animais/
+
+Tudo que fica em public/ é servido na raiz do site (ex.: /logos/logo-ong.png).
+Este arquivo pode ser apagado depois.
